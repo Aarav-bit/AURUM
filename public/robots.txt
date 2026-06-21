@@ -1,5 +1,6 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://svarnara-fine-dining.vercel.app/sitemap.xml
+Sitemap: https://svarnara.vercel.app/sitemap.xml
+
 
